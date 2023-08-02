@@ -1,8 +1,6 @@
 # customizegpt README
 
-This is the README for your extension "customizegpt". After writing up a brief description, we recommend including the following sections.
-
-test 
+This is the README for your extension "customizegpt". After writing up a brief description, we recommend including the following sections. 
 
 ## Features
 
